@@ -2,7 +2,6 @@
 
 # 🧭 Table of contents
 
-- [🧭 Table of contents](#-table-of-contents)
 - [Introduction](#introduction)
 - [Frontend](#frontend)
 - [Project Description](#project-description)
